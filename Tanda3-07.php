@@ -9,7 +9,7 @@
           $numeroSecreto = 1234;
           if (!isset($_POST['oportunidades'])) {
             $numeroIntroducido = 5555;
-            $oportunidades = 3;
+            $oportunidades = 4;
           } else {
             $oportunidades = $_POST['oportunidades'];
             $numeroIntroducido = $_POST['numeroIntroducido'];
