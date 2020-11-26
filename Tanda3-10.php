@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>08</title>
+    <title>10</title>
   </head>
   <body>
         Este programa calcula la media de los números positivos introducidos.<br>
